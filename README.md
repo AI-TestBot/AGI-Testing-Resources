@@ -1,4 +1,15 @@
-# Vision-Languages-Models-(VLMs)-Testing-Survey
+# Artificial-General-Intelligence-(AGI)-Testing-Survey
+
+## Review
+
+*From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities.*<br>
+*C Lu, C Qian, G Zheng, H Fan, H Gao, J Zhang, J Shao, J Deng, J Fu, K Huang, K Li, L Li, et al.*<br>
+ArXiv, 2024.
+[[ArXiv](https://arxiv.org/pdf/2401.15071.pdf)]
+[[Github](https://openlamm.github.io/Leaderboards)]
+
+
+# Embodied-Artificial-Intelligence-(EAI)-Testing-Survey
 
 ## Review
 
